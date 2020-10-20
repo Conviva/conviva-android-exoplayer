@@ -14,8 +14,17 @@
     Place the Conviva library in app's 'lib' folder and add the following line to app's build.gradle file.
     
     implementation fileTree(dir: 'libs',include:['*.aar'])
-    
-    
+
+## Support Android Version    
+    Android 11
+
+## Support ExoPlayer SDK Version    
+    ExoPlayer 2.11.7
+
+## Support Conviva Android CoreSDK Version
+    Conviva Android CoreSDK v4.0.10.141
+    https://github.com/Conviva/conviva-android-coresdk/releases/tag/v4.0.10.141
+
 ## Note:  
 
 * Refer https://community.conviva.com/ for integration guidelines.
