@@ -2,7 +2,7 @@
 # Changelog
 
 
-## 4.0.5 (10/FEB/2021)
+## 4.0.5.45 (10/FEB/2021)
 
 * Supports ExoPlayer 2.12.x.
 * Supports auto collection of average bit rate if it is available from player.
