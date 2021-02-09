@@ -1,6 +1,15 @@
 
 # Changelog
 
+
+## 4.0.5 (10/FEB/2021)
+
+* Supports ExoPlayer 2.12.x.
+* Supports auto collection of average bit rate if it is available from player.
+* Note: Applications need to include android.enableDexingArtifactTransform=false in gradle.properties to avoid "Abstract Method Error" exception.
+* Note: This version is not compatible with ExoPlayer 2.11.x and below.Using this library against Exoplayer 2.11.x and below will result in abnormal behaviour and metrics will not be reported correctly.
+* Introduces new versioning of Major.Minor.PatchL(Eg.. 4.1.2L) for the legacy Conviva SDK Integrations to be able to differentiate from the Simplified Integrations. (Existing)
+
 ## 4.0.4.33 (05/OCT/2020)
 
 * Supports Android 11.
