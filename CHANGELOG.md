@@ -1,6 +1,11 @@
 
 # Changelog
 
+## 4.0.6.52 (30/MAR/2021)
+
+* Supports Exoplayer 2.13.0 and backward compatible with 2.12.x.
+* Fixes false play state reports.
+* Fixes the issue "not reporting buffering event under pause state".
 
 ## 4.0.5.45 (10/FEB/2021)
 
