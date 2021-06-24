@@ -8,7 +8,7 @@
 ## Gradle dependency
     Add the following line to app's build.gradle file.
     
-    implementation 'com.conviva.sdk:conviva-exoplayer-sdk:4.0.6.52'
+    implementation 'com.conviva.sdk:conviva-exoplayer-sdk:4.0.7.61'
     
 ## Offline library
     Place the Conviva library in app's 'lib' folder and add the following line to app's build.gradle file.
@@ -19,7 +19,7 @@
     Android 11
 
 ## Support ExoPlayer SDK Version    
-    ExoPlayer 2.13.0 on latest version
+    ExoPlayer 2.14.0 on latest version
 
 ## Support Conviva Android CoreSDK Version
     Conviva Android CoreSDK v4.0.12.155
