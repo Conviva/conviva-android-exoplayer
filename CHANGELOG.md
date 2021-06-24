@@ -1,6 +1,12 @@
 
 # Changelog
 
+## 4.0.7.61 (24/JUN/2021)
+
+* Supports Exoplayer 2.14.0 version.
+* Improved bitrate reporting using peak and average bitrate fields.
+* This version is not compatible with 2.13.x and below versions of Exoplayer.
+
 ## 4.0.6.52 (30/MAR/2021)
 
 * Supports Exoplayer 2.13.0 and backward compatible with 2.12.x.
