@@ -28,3 +28,4 @@
 ## Note:  
 
 * Refer https://community.conviva.com/ for integration guidelines.
+* Applications need to include android.enableDexingArtifactTransform=false in gradle.properties to avoid "Abstract Method Error" exception.
