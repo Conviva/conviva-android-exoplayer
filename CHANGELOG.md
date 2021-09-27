@@ -4,6 +4,7 @@
 ## 4.0.9.73 (24/SEP/2021)
 
 * Supports Exoplayer 2.15.x version.
+* Supports Android 12 Beta 5.
 * Supports auto collection of encoded frame rate.
 * This version is not compatible with 2.14.x and below versions of Exoplayer.
 
