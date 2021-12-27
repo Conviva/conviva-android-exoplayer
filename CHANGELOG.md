@@ -3,11 +3,12 @@
 
 ## 4.0.10 (18/NOV/2021)
 
+Note: This version is not compatible with 4.0.17.197 and below version of Conviva Android Core SDK.
+
 * Supports Exoplayer 2.16.x version.
 * Supports Android 12.
 * Removes legacy Exoplayer API’s.
 * This version is not compatible with 2.15.x and below versions of Exoplayer.
-* This version is not compatible with 4.0.17.197 and below version of Conviva Android Core SDK.
 
 ## 4.0.9.73 (24/SEP/2021)
 
