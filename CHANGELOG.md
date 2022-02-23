@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.0.11 (23/FEB/2022)
+
+* Supports Android 12L Beta 2.
+
 ## 4.0.10 (18/NOV/2021)
 
 Note: This version is not compatible with 4.0.17.197 and below version of Conviva Android Core SDK.
@@ -16,6 +20,13 @@ Note: This version is not compatible with 4.0.17.197 and below version of Conviv
 * Supports Android 12 Beta 5.
 * Supports auto collection of encoded frame rate.
 * This version is not compatible with 2.14.x and below versions of Exoplayer.
+
+## 4.0.7.83 (23/FEB/2022)
+
+* Hot fix on top of Conviva Exo Player Module 4.0.7.61 supporting Exo Player 2.14.1 version for compatibility with Core SDK Version 4.0.19 and above.
+* Supports Android 12.
+* Removes legacy Conviva API’s.
+* This version is not compatible with 2.13.x and below versions of Exoplayer.
 
 ## 4.0.7.61 (24/JUN/2021)
 
