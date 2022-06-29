@@ -1,6 +1,16 @@
 
 # Changelog
 
+
+## 4.0.13 (6/May/2022)
+
+* Bugs Fixes and minor improvements
+
+## 4.0.12 (22/MAR/2022)
+
+* Supports Exoplayer Module version 2.17.1.
+* Supports Conviva Android Core SDK 4.0.20
+
 ## 4.0.11 (23/FEB/2022)
 
 * Supports Android 12L Beta 2.
