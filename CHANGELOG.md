@@ -1,6 +1,8 @@
 
 # Changelog
 
+## 4.0.15 (15/July/2022)
+* Support for Android 13 Beta 2
 
 ## 4.0.13 (6/May/2022)
 
