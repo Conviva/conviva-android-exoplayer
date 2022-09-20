@@ -60,6 +60,12 @@ Note: This version is not compatible with 4.0.17.197 and below version of Conviv
 * Note: This version is not compatible with ExoPlayer 2.11.x and below.Using this library against Exoplayer 2.11.x and below will result in abnormal behaviour and metrics will not be reported correctly.
 * Introduces new versioning of Major.Minor.PatchL(Eg.. 4.1.2L) for the legacy Conviva SDK Integrations to be able to differentiate from the Simplified Integrations. (Existing)
 
+
+## 4.0.4.34 (20/SEP/2022)
+* Hot fix on top of Conviva Exo Player Module 4.0.4.33 supporting Exo Player 2.11.7 version to support compatibility with Core SDK Version 4.0.19 and above.
+* Supports Android 12.
+* Removes legacy Conviva API’s.
+
 ## 4.0.4.33 (05/OCT/2020)
 
 * Supports Android 11.
