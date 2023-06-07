@@ -5,6 +5,9 @@
 * Added support for media3 Exoplayer (1.0.0-beta02)
 * This version is not compatible with 4.0.26 and below versions of Conviva Android Core SDK.
 
+## 4.0.16.1 (07/JUN/2023)
+* Hot fix on top of Conviva Exo Player Module 4.0.16 fixing the thread synchronization issues
+
 ## 4.0.16 (30/SEP/2022)
 * Added Support for Core SDK 4.0.25
 * Added Support for Android 13 GA
