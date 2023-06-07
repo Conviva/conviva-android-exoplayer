@@ -1,6 +1,9 @@
 
 # Changelog
 
+## 4.0.18 (10/APR/2023)
+* Support for auto collection of audio track changes, subtitle track changes and closed caption track changes.
+
 ## 4.0.17 (11/OCT/2022)
 * Added support for media3 Exoplayer (1.0.0-beta02)
 * This version is not compatible with 4.0.26 and below versions of Conviva Android Core SDK.
