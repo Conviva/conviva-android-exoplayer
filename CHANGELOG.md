@@ -1,6 +1,19 @@
 
 # Changelog
 
+## 4.1.2 (25/OCT/2023)
+* Fixes the issue of false buffering state due to the transient audio focus loss(during an incoming call or playback by other apps).
+
+## 4.1.1 (11/OCT/2023)
+* Supports Android 14
+* Supports Exoplayer 2.19.1
+* Supports AndroidX media3 Exoplayer 1.1.1
+
+## 4.1.0 (05/JUL/2023)
+* Supports Exoplayer 2.18.7
+* Supports media3 Exoplayer 1.0.2
+* This version is not compatible with 4.0.32 and below versions of Conviva Android Core SDK.
+
 ## 4.0.18 (10/APR/2023)
 * Support for auto collection of audio track changes, subtitle track changes and closed caption track changes.
 
