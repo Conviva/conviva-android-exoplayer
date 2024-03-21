@@ -1,8 +1,11 @@
 
 # Changelog
 
+## 4.1.3 (21/MAR/2024)
+* Fixes the issue of false buffering state due to the transient audio focus loss(during an incoming call or playback by other apps) for Exoplayer2
+
 ## 4.1.2 (25/OCT/2023)
-* Fixes the issue of false buffering state due to the transient audio focus loss(during an incoming call or playback by other apps).
+* Fixes the issue of false buffering state due to the transient audio focus loss(during an incoming call or playback by other apps) for media3 Exoplayer
 
 ## 4.1.1 (11/OCT/2023)
 * Supports Android 14
