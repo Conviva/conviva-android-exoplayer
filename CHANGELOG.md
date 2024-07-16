@@ -4,6 +4,10 @@
 ## 4.1.3 (21/MAR/2024)
 * Fixes the issue of false buffering state due to the transient audio focus loss(during an incoming call or playback by other apps) for Exoplayer2
 
+## 4.1.2.1 (08/DEC/2023)
+* Hot fix on top of Conviva Exo Player Module 4.1.2
+* Enhances the playback error reporting by sending the error code and message for PlaybackException and message for the other exceptions.
+  
 ## 4.1.2 (25/OCT/2023)
 * Fixes the issue of false buffering state due to the transient audio focus loss(during an incoming call or playback by other apps) for media3 Exoplayer
 
