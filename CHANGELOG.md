@@ -1,6 +1,12 @@
 
 # Changelog
 
+## 4.0.7.85 (01/AUG/2024)
+* Hotfix on top of 4.0.7.83
+* Fixes the issue of false buffering state due to the transient audio focus loss(during an incoming call or playback by other apps) for  Exoplayer.
+* Enhances the playback error reporting by sending the error type and message for ExoPlaybackException.
+* Fixes the thread synchronization issues between core and Exoplayer Module sdks.
+
 ## 4.1.3 (21/MAR/2024)
 * Fixes the issue of false buffering state due to the transient audio focus loss(during an incoming call or playback by other apps) for Exoplayer2
 
