@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.0.7.86 (14/AUG/2024)
+* Hotfix on top of 4.0.7.85
+* Fixes the thread synchronization issue between the Conviva Exoplayer Module and ExoPlayer.
+
 ## 4.0.7.85 (01/AUG/2024)
 * Hotfix on top of 4.0.7.83
 * Fixes the issue of false buffering state due to the transient audio focus loss(during an incoming call or playback by other apps) for  Exoplayer.
