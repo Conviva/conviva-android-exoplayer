@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.1.4 (05/NOV/2024)
+* Supports Android 15
+* Supports AndroidX media3 Exoplayer 1.4.0
+
 ## 4.0.7.86 (14/AUG/2024)
 * Hotfix on top of 4.0.7.85
 * Fixes the thread synchronization issue between the Conviva Exoplayer Module and ExoPlayer.
