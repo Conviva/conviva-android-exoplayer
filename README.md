@@ -16,14 +16,17 @@
     implementation fileTree(dir: 'libs',include:['*.aar'])
 
 ## Support Android Version    
-    Android 12L Beta 2
+    Android 12L Beta 2 (API level 16)
 
 ## Support ExoPlayer SDK Version    
-    ExoPlayer 2.16.0 on latest version
+    ExoPlayer 2.19.1 on latest version
 
-## Support Conviva Android CoreSDK Version
-    Conviva Android CoreSDK v4.0.20
-    https://github.com/Conviva/conviva-android-coresdk/releases/tag/4.0.20
+## Support Media3 ExoPlayer SDK Version    
+    Media3 ExoPlayer 1.4.0 on latest version
+
+## Support Conviva Android Core SDK Version
+    Conviva Android CoreSDK v4.0.41
+[GitHub Release](https://github.com/Conviva/conviva-android-coresdk/releases/tag/v4.0.41)
 
 ## Note:  
 
