@@ -1,6 +1,10 @@
 
 # Changelog
 
+## 4.1.5 (20/FEB/2025)
+* Enhances the playback error reporting by sending the error code and error code name for Playback errors in ExoPlayer and Media3 ExoPlayer.
+  For ERROR_CODE_IO_BAD_HTTP_STATUS, the cause is also reported.
+
 ## 4.1.4 (05/NOV/2024)
 * Supports Android 15
 * Supports AndroidX media3 Exoplayer 1.4.0
