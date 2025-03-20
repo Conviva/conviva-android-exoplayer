@@ -24,6 +24,14 @@
 ## Support Media3 ExoPlayer SDK Version    
     Media3 ExoPlayer 1.4.0 on latest version
 
+## ProGuard rules
+If you are using shrinkResources or minifyEnabled properties in the application to optimize the size of the APK file, then add the following in ProGuard rules:
+```
+-keep class com.conviva.playerinterface.** { *; }
+-keep, allowshrinking class com.conviva.** { *; }
+-dontwarn  com.google.android.exoplayer2.ExoPlayer.**, *
+```
+
 ## Support Conviva Android Core SDK Version
     Conviva Android CoreSDK v4.0.41
 [GitHub Release](https://github.com/Conviva/conviva-android-coresdk/releases/tag/v4.0.41)
