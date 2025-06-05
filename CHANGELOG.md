@@ -5,7 +5,8 @@
 * Supports Android 16
 * Enhances the playback error reporting by sending the error code and error code name for Playback errors in ExoPlayer and Media3 ExoPlayer.
   For ERROR_CODE_IO_BAD_HTTP_STATUS, the cause is also reported.
-
+  
+**Note: For integrating with Media3 ExoPlayer 1.4.1 or above, please use the new [Media3](https://github.com/Conviva-Internal/conviva-android-media3) Conviva module.**
 ## 4.1.4 (05/NOV/2024)
 * Supports Android 15
 * Supports AndroidX media3 Exoplayer 1.4.0
