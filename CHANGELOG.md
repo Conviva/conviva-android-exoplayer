@@ -2,7 +2,7 @@
 # Changelog
 
 ## 4.1.6 (13/AUG/2025)
-* Support for turn off the default error reporting behavior of the ExoPlayer module. Pass this constant in the player info through the ConvivaVideoAnalytics.setPlayer API.
+* Support for turning off the default error reporting behavior of the ExoPlayer module. Pass the `ConvivaSdkConstants.PLAYBACK.AUTO_REPORT_ERRORS` constant in the player info through the `ConvivaVideoAnalytics.setPlayer` API to disable error reporting from the module.
 
 **Note: Applicable only to Core SDK 4.0.47 and above.**
 
