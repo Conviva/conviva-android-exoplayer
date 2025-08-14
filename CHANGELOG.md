@@ -3,7 +3,8 @@
 
 ## 4.1.6 (13/AUG/2025)
 * Support for turn off the default error reporting behavior of the ExoPlayer module. Pass this constant in the player info through the ConvivaVideoAnalytics.setPlayer API.
-Note: Applicable only to Core SDK 4.0.47 and above.
+
+**Note: Applicable only to Core SDK 4.0.47 and above.**
 
 ## 4.1.5 (20/FEB/2025)
 * Supports Android 16
