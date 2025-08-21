@@ -34,6 +34,21 @@ If you are using shrinkResources or minifyEnabled properties in the application 
 -dontwarn  com.google.android.exoplayer2.ExoPlayer.**, *
 ```
 
+
+## Stop Auto-Reporting Errors from ExoPlayer and Media3 Modules  
+Configure the ExoPlayer module to stop auto-reporting fatal player errors by passing `ConvivaSdkConstants.PLAYBACK.AUTO_REPORT_ERRORS` in the player's `info` through the `ConvivaVideoAnalytics.setPlayer` API.
+
+NOTE: With this setup, the ExoPlayer module stops reporting the errors, unless the errors are reported exclusively through the `ConvivaVideoAnalytics.reportPlaybackError` API.
+Applicable for module 4.1.6 (and above) with Core SDK 4.0.48 (and above).
+```java
+HashMap<String, Object> playerInfo = new HashMap<>();
+
+// Indicate to the ExoPlayer/Media3 module that errors should not be auto reported
+
+playerInfo.put(ConvivaSdkConstants.PLAYBACK.AUTO_REPORT_ERRORS, false);
+client.setPlayer(player, playerInfo);
+```
+
 ## Support Conviva Android Core SDK Version
 [Conviva Android CoreSDK v4.0.43](https://github.com/Conviva/conviva-android-coresdk/releases/tag/v4.0.43)
 
